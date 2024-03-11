@@ -5,12 +5,12 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=xray-plugin
-PKG_VERSION:=1.8.4
+PKG_VERSION:=1.8.9
 PKG_RELEASE:=1
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
 PKG_SOURCE_URL:=https://codeload.github.com/teddysun/xray-plugin/tar.gz/v$(PKG_VERSION)?
-PKG_HASH:=7154310f1108bb8538327f35696cbce1ca22feb1e7d26922a8a359ccab68d952
+PKG_HASH:=728ad3eacc089af4a4f0e0aa539e1c6922ae391905f7b45bf5dc89f256f5b1c9
 
 PKG_LICENSE:=MIT
 PKG_LICENSE_FILES:=LICENSE
